@@ -1,0 +1,21 @@
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+
+.todo-text {
+  margin-right: 10px;
+  font-size: 22px;
+}
+
+.delete-button {
+  font-size: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  padding: 10px;
+  border: solid 3px #ffc2a0;
+  color: #ffc2a0;
+  background-color: #ffffff;
+}
